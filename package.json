@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "minify Css/Css.css > Css/Css-minified.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "minify": "^7.1.0"
+  }
+}
