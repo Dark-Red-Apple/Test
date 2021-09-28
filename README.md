@@ -1,1 +1,12 @@
-# A test project for learning git
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwS70r6aZEg6-wofSf66x7MU7FiZSEFSOIQA&usqp=CAU" alt="Bootstrap logo" width="200" height="165">
+  </a>
+</p>
+<p align="center">
+  This is a just a test to learn git
+  <br>
+  <a href="https://github.com/Dark-Red-Apple/Test"><strong>Test git</strong></a>
+</p>
+
+# A test project to learn git
