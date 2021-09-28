@@ -23,6 +23,6 @@ bootstrap/
 │   ├── main.css
 ├── a.txt
 ├── index.html
-├── new.html
+└── new.html
 
 ```
