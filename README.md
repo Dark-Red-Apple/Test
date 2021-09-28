@@ -10,3 +10,19 @@
 </p>
 
 # A test project to learn git
+
+## What's included
+
+Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+
+``
+bootstrap/
+├── css/
+│   ├── Css-minified.css
+│   ├── Css.map
+│   ├── main.css
+├── a.txt
+├── index.html
+├── new.html
+
+``
