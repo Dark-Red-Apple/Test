@@ -2,6 +2,12 @@
   <a href="https://getbootstrap.com/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwS70r6aZEg6-wofSf66x7MU7FiZSEFSOIQA&usqp=CAU" alt="Bootstrap logo" width="200" height="165">
   </a>
+  <p align="center">  
+    <a href="https://img.shields.io/apm/l/npm?style=flat-square">
+     <img src="https://img.shields.io/apm/l/npm?style=flat-square">
+    </a>
+  </p>
+  
 </p>
 <p align="center">
   This is a just a test to learn git
