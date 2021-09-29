@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "minify Css/Css.css > Css/Css-minified.css"
+    "build": "minify Css/Css.css > Css/style-minified.css"
   },
   "author": "",
   "license": "ISC",
