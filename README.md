@@ -22,15 +22,16 @@
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```
-bootstrap/
-├── css/
+Test/
+├── app/
+│   ├── core  
+│   └── local
+├── css/ 
 │   ├── style-minified.css
-│   ├── style.map
+│   ├── style.css
 │   └── responsive.css
 ├── js/
 │   └── test.js
-├── a.txt
-├── index.html
-└── new.html
+└── index.html
 
 ```
