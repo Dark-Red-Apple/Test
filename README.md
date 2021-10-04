@@ -24,9 +24,11 @@ Within the download you'll find the following directories and files, logically g
 ```
 bootstrap/
 ├── css/
-│   ├── Css-minified.css
-│   ├── Css.map
-│   ├── main.css
+│   ├── style-minified.css
+│   ├── style.map
+│   └── responsive.css
+├── js/
+│   └── test.js
 ├── a.txt
 ├── index.html
 └── new.html
